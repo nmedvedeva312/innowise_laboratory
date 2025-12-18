@@ -14,4 +14,3 @@ Response:
 ```json
 {"status": "ok"}
 
-
